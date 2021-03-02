@@ -28,3 +28,11 @@ Everyone should compulsory follow the below instruction in order to get the atte
 2. Anaconda Installation 
 
 [Day01_(01-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/dd45f73a6ea4d9a6348bef1a6b74bea0e027fe95ef2f3413d2a3d387462112e9)
+## Day02 Introduction to Programming using Python (02-03-2021)
+## Discussed Concepts
+1. Difference between .py files versus .ipynb files
+1. Literate Programming
+1. Jupyter Notebook Environment
+1. Markdown Syntax
+
+[Day02_(02-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/6648e8fd74685ace37e20f97d2bf2d0879373d2ddb81cf76dca8f58158e31e87)
