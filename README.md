@@ -25,6 +25,6 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. Features of Python 
 1. Python Programming Applications 
 1. Softwares for Python Programming 
-1. Anaconda Installation 
+2. 1. Anaconda Installation 
 
 [[Day01_(01-03-2021) Recorded_Video]]()
