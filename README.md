@@ -12,7 +12,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Make sure roll number should match with the registered roll number
 5. Minimum **`120/150`** minutes should attend in **`150/180 minutes`** session with same login format
 
---->
+---
 ## Day01 Introduction to Programming using Python (01-03-2021)
 ## Discussed Concepts
 
