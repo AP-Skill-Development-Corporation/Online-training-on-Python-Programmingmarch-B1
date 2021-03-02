@@ -27,4 +27,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. Softwares for Python Programming 
 2. Anaconda Installation 
 
-[[Day01_(01-03-2021) Recorded_Video]](https://transcripts.gotomeeting.com/#/s/dd45f73a6ea4d9a6348bef1a6b74bea0e027fe95ef2f3413d2a3d387462112e9)
+[Day01_(01-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/dd45f73a6ea4d9a6348bef1a6b74bea0e027fe95ef2f3413d2a3d387462112e9)
