@@ -36,5 +36,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. [Markdown Syntax](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_02_02March2021/introduction.ipynb)
 2. [Python basics](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_02_02March2021/Python%20day%201%20class%20notes.ipynb)
 3. python Operators
+    - Airthemetical
+    - Logical
+    - Relational Operators
 
 [Day02_(02-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/6648e8fd74685ace37e20f97d2bf2d0879373d2ddb81cf76dca8f58158e31e87)
