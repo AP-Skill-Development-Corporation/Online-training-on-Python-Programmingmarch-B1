@@ -41,3 +41,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - Relational Operators
 
 [Day02_(02-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/6648e8fd74685ace37e20f97d2bf2d0879373d2ddb81cf76dca8f58158e31e87)
+
+
+
+[Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
