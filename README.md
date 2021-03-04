@@ -57,5 +57,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
     4. String Slicing
     5. String Methods
 [Day03_(03-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/843e5b9b83475268ed6c7a94530b8c4e8746f893eb19b33b26aaffa298b96fac)
-
+-----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
