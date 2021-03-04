@@ -42,6 +42,20 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day02_(02-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/6648e8fd74685ace37e20f97d2bf2d0879373d2ddb81cf76dca8f58158e31e87)
 
-
+## Day03 Operators in python and Strings (02-03-2021)
+## Discussed Concepts
+1. **Operators in Python contd..**
+    1. Assignment
+    2. Bitwise
+    3. Special Operators in Python
+        - Membership
+        - Identity
+2. **Strings**
+    1. What is a string
+    2. How to declare a string
+    3. Accessing the elements from the string
+    4. String Slicing
+    5. String Methods
+[Day03_(03-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/843e5b9b83475268ed6c7a94530b8c4e8746f893eb19b33b26aaffa298b96fac)
 
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
