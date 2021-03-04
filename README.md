@@ -44,13 +44,13 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## Day03 Operators in python and Strings (02-03-2021)
 ## Discussed Concepts
-1. **Operators in Python contd..**
+1. [**Operators in Python contd..**](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_03_03MArch2021/Day3_python%20Operators.ipynb)
     1. Assignment
     2. Bitwise
     3. Special Operators in Python
         - Membership
         - Identity
-2. **Strings**
+2. [**Strings**](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_03_03MArch2021/Day3_python%20Strings.ipynb)
     1. What is a string
     2. How to declare a string
     3. Accessing the elements from the string
