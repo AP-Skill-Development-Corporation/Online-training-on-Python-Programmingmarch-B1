@@ -64,14 +64,16 @@ Everyone should compulsory follow the below instruction in order to get the atte
 2. Loops 
     1. For loop
     2. while lopp
+
 [Day04_(04-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/47b91c4a12a49b1e8a0c73757a3f7b8af11167b7be429015916636136b54e55d)
 
 ## Day05 Data Structures(05-03-2021)
-## Discussed Concepts
+## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_05_05March2021/Day_05_data%20structures.ipynb)
 1. List 
 2. Tuple
 3. Dictionary
 
 [Day05_(05-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/1cc70847f345d6e415309f6fb645fe8f4bd5f244c1ebb7bc82cc90be0fac42b1)
+
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
