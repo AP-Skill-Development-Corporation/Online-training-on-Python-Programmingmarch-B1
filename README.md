@@ -42,7 +42,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day02_(02-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/6648e8fd74685ace37e20f97d2bf2d0879373d2ddb81cf76dca8f58158e31e87)
 
-## Day03 Operators in python and Strings (02-03-2021)
+## Day03 Operators in python and Strings (03-03-2021)
 ## Discussed Concepts
 1. [**Operators in Python contd..**](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_03_03MArch2021/Day3_python%20Operators.ipynb)
     1. Assignment
@@ -57,5 +57,14 @@ Everyone should compulsory follow the below instruction in order to get the atte
     4. String Slicing
     5. String Methods
 [Day03_(03-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/843e5b9b83475268ed6c7a94530b8c4e8746f893eb19b33b26aaffa298b96fac)
+
+## Day04 Conditional statements and Iterations (04-03-2021)
+## Discussed Concepts
+1. Conditional statements 
+2. Loops 
+    1. For loop
+    2. while lopp
+[Day04_(04-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/47b91c4a12a49b1e8a0c73757a3f7b8af11167b7be429015916636136b54e55d)
+
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
