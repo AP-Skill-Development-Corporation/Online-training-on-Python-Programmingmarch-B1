@@ -77,3 +77,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
+
+[Attendance](https://docs.google.com/spreadsheets/d/1VYY59lP-y7vpZpELXlIesWoStHjuom1LcZJfo-7xlzM/edit?usp=sharing)
