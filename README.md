@@ -60,7 +60,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## Day04 Conditional statements and Iterations (04-03-2021)
 ## Discussed Concepts
-1. Conditional statements 
+1. [Conditional statements](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_04_04March2021.ipynb)
 2. Loops 
     1. For loop
     2. while lopp
