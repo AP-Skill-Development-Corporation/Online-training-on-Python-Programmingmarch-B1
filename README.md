@@ -75,6 +75,18 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day05_(05-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/1cc70847f345d6e415309f6fb645fe8f4bd5f244c1ebb7bc82cc90be0fac42b1)
 
+## Day06 Data Structures(06-03-2021)
+## [Discussed Concepts]()
+1. Sets
+2. 
+[Day06_(06-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/80ef509cabcc13c52b52aa50dd8c2be63c4fcfa8777ebff339ecefb3dc402080)
+
+## Day07 Data Structures(08-03-2021)
+## [Discussed Concepts]()
+1. Packeges and models
+2. Files
+[Day07_(08-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/35540f24d859fc8738ccfd59e126ab6d10509e5ecc80eb42d4983d00651aff07)
+
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
 
