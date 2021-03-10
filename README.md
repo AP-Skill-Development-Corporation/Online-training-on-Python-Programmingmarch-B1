@@ -85,8 +85,17 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Discussed Concepts]()
 1. Packeges and models
 2. Files
+
 [Day07_(08-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/35540f24d859fc8738ccfd59e126ab6d10509e5ecc80eb42d4983d00651aff07)
 
+
+## Day08 Data Structures(09-03-2021)
+## [Discussed Concepts]()
+1. Files continuation 
+2. Regular Expressions(RE)
+3. MAP and LAMBDA 
+
+[Day08_(09-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/900d199ae83a379f7b149f8cde9b6fac6f978d38a327b14c7047b33f256391ad)
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
 
