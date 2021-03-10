@@ -82,7 +82,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 [Day06_(06-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/80ef509cabcc13c52b52aa50dd8c2be63c4fcfa8777ebff339ecefb3dc402080)
 
 ## Day07 Data Structures(08-03-2021)
-## [Discussed Concepts]()
+## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_07_08March2021/Day_07_08March2021.ipynb)
 1. Packeges and models
 2. Files
 
