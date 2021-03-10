@@ -95,7 +95,16 @@ Everyone should compulsory follow the below instruction in order to get the atte
 2. Regular Expressions(RE)
 3. MAP and LAMBDA 
 
-[Day08_(09-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/900d199ae83a379f7b149f8cde9b6fac6f978d38a327b14c7047b33f256391ad)
+[Day09_(10-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/900d199ae83a379f7b149f8cde9b6fac6f978d38a327b14c7047b33f256391ad)
+
+## Day09 Data Structures(10-03-2021)
+## [Discussed Concepts]()
+1.Filters 
+2.Comprehensions
+3.Iterator
+4.Generator
+5.OOP introduction
+[Day09_(10-03-2021) Recorded_Video](
 
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
