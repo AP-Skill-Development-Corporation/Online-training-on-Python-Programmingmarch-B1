@@ -96,6 +96,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 3. MAP and LAMBDA 
 
 [Day08_(09-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/900d199ae83a379f7b149f8cde9b6fac6f978d38a327b14c7047b33f256391ad)
+
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
 
