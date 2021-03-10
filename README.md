@@ -99,12 +99,11 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## Day09 Data Structures(10-03-2021)
 ## [Discussed Concepts]()
-
-1.Filters 
-2.Comprehensions
-3.Iterator
-4.Generator
-5.OOP introduction
+1. Filters 
+2. Comprehensions
+3. Iterator
+4. Generator
+5. OOP introduction
 
 [Day09_(10-03-2021) Recorded_Video](
 
