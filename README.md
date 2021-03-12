@@ -90,7 +90,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 
 ## Day08 Data Structures(09-03-2021)
-## [Discussed Concepts]()
+## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_08_09March2021.ipynb)
 1. Files continuation 
 2. Regular Expressions(RE)
 3. MAP and LAMBDA 
@@ -98,14 +98,14 @@ Everyone should compulsory follow the below instruction in order to get the atte
 [Day09_(10-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/900d199ae83a379f7b149f8cde9b6fac6f978d38a327b14c7047b33f256391ad)
 
 ## Day09 Data Structures(10-03-2021)
-## [Discussed Concepts]()
+## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_09_10March2021.ipynb)
 1. Filters 
 2. Comprehensions
 3. Iterator
 4. Generator
 5. OOP introduction
 
-[Day09_(10-03-2021) Recorded_Video](
+[Day09_(10-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/191e70688aafacb0bed440af5d0eefb37a5623fdf10f5cbab0997f40b3cc91e9)
 
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
