@@ -2,6 +2,15 @@
 # Online training on Python Programming 
 This repository consists of all the files, resources, and recorded session links which are discussed during Online training on Python Programming from march 1st.
 
+### New meeting details
+Access Code: 310-125-445
+
+New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/310125445
+
+Please join my meeting from your computer, tablet or smartphone.
+https://www.gotomeet.me/pythonrjuktbatch01
+
+
 ### Instructions for attendance
 
 Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
