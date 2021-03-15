@@ -84,10 +84,11 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day05_(05-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/1cc70847f345d6e415309f6fb645fe8f4bd5f244c1ebb7bc82cc90be0fac42b1)
 
-## Day06 Data Structures(06-03-2021)
-## [Discussed Concepts]()
+## Day06 Sets and functions(06-03-2021)
+## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_06_06March2021.ipynb)
 1. Sets
-2. 
+2. Functions
+
 [Day06_(06-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/80ef509cabcc13c52b52aa50dd8c2be63c4fcfa8777ebff339ecefb3dc402080)
 
 ## Day07 Packeges and modules (08-03-2021)
@@ -120,12 +121,14 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day10_12March2021.ipynb)
 1. Opp Continues..
 2. Numpy
+
 [Day10_(12-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/d7a0cd2249068ebd04b01a68ed544909283992133c8b1b80c41e9f5474d688e0)
 
 ## Day11 Numpy and pandas(15-03-2021)
 ## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_11_15March2021.ipynb)
 1. Numpy
 2. Pandas
+
 [Day11_(15-03-2021) Recorded_Video](
 
 
