@@ -116,6 +116,12 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day09_(10-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/191e70688aafacb0bed440af5d0eefb37a5623fdf10f5cbab0997f40b3cc91e9)
 
+## Day10 Data Structures(12-03-2021)
+## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day10_12March2021.ipynb)
+1. Opp Continues..
+2. Numpy
+[Day10_(12-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/d7a0cd2249068ebd04b01a68ed544909283992133c8b1b80c41e9f5474d688e0)
+
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
 
