@@ -127,7 +127,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ## Day11 Numpy and pandas(15-03-2021)
 ## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_11_15March2021.ipynb)
 1. Numpy
-2. Pandas
+2. Pandas 
+[Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 [Day11_(15-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/e780f077852fc54aefd511114a882cac8fe2d4865a1e25581d40a36a415298d7)
 
