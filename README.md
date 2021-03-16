@@ -84,13 +84,14 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day05_(05-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/1cc70847f345d6e415309f6fb645fe8f4bd5f244c1ebb7bc82cc90be0fac42b1)
 
-## Day06 Data Structures(06-03-2021)
-## [Discussed Concepts]()
+## Day06 Sets and functions(06-03-2021)
+## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_06_06March2021.ipynb)
 1. Sets
-2. 
+2. Functions
+
 [Day06_(06-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/80ef509cabcc13c52b52aa50dd8c2be63c4fcfa8777ebff339ecefb3dc402080)
 
-## Day07 Data Structures(08-03-2021)
+## Day07 Packeges and modules (08-03-2021)
 ## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_07_08March2021/Day_07_08March2021.ipynb)
 1. Packeges and models
 2. Files
@@ -98,7 +99,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 [Day07_(08-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/35540f24d859fc8738ccfd59e126ab6d10509e5ecc80eb42d4983d00651aff07)
 
 
-## Day08 Data Structures(09-03-2021)
+## Day08 Files and regular expressions(09-03-2021)
 ## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_08_09March2021.ipynb)
 1. Files continuation 
 2. Regular Expressions(RE)
@@ -106,7 +107,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day09_(10-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/900d199ae83a379f7b149f8cde9b6fac6f978d38a327b14c7047b33f256391ad)
 
-## Day09 Data Structures(10-03-2021)
+## Day09 Comprehensions(10-03-2021)
 ## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_09_10March2021.ipynb)
 1. Filters 
 2. Comprehensions
@@ -116,11 +117,21 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 [Day09_(10-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/191e70688aafacb0bed440af5d0eefb37a5623fdf10f5cbab0997f40b3cc91e9)
 
-## Day10 Data Structures(12-03-2021)
+## Day10 Opp(12-03-2021)
 ## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day10_12March2021.ipynb)
 1. Opp Continues..
 2. Numpy
+
 [Day10_(12-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/d7a0cd2249068ebd04b01a68ed544909283992133c8b1b80c41e9f5474d688e0)
+
+## Day11 Numpy and pandas(15-03-2021)
+## [Discussed Concepts](https://github.com/AP-Skill-Development-Corporation/Online-training-on-Python-Programmingmarch-B1/blob/main/Day_11_15March2021.ipynb)
+1. Numpy
+2. Pandas 
+[Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+[Day11_(15-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/e780f077852fc54aefd511114a882cac8fe2d4865a1e25581d40a36a415298d7)
+
 
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
