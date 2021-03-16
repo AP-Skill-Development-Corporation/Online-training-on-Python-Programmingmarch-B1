@@ -2,6 +2,9 @@
 # Online training on Python Programming 
 This repository consists of all the files, resources, and recorded session links which are discussed during Online training on Python Programming from march 1st.
 
+
+
+[Course content](https://drive.google.com/file/d/1bcJPn8XSkwHoTTY0wPsB0pRQG-IdmiDJ/view)
 ### New meeting details
 Access Code: 310-125-445
 
