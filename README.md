@@ -131,6 +131,11 @@ Everyone should compulsory follow the below instruction in order to get the atte
 [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 [Day11_(15-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/e780f077852fc54aefd511114a882cac8fe2d4865a1e25581d40a36a415298d7)
+## Day12 pandas and matplotlib(15-03-2021)
+## [Discussed Concepts]()
+2. Pandas 
+    - [Reading data](https://drive.google.com/file/d/1jt_pqd-FDzfQ5v_0x6Bp8nYhcj2n1RfN/view)
+4. matplotlib
 
 
 -----
