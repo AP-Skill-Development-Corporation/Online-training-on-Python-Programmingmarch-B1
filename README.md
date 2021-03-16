@@ -129,7 +129,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. Numpy
 2. Pandas
 
-[Day11_(15-03-2021) Recorded_Video](
+[Day11_(15-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/e780f077852fc54aefd511114a882cac8fe2d4865a1e25581d40a36a415298d7)
 
 
 -----
