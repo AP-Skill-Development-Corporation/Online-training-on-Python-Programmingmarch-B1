@@ -140,6 +140,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
     - [Reading data](https://drive.google.com/file/d/1jt_pqd-FDzfQ5v_0x6Bp8nYhcj2n1RfN/view)
 4. matplotlib
 
+[Day12_(16-03-2021) Recorded_Video](https://transcripts.gotomeeting.com/#/s/71c55af70977832f08bd43b31ee4e703402d1fbf14302683957bbf44b4ed783d)
 
 -----
 [Registered Student report](https://docs.google.com/spreadsheets/d/1c3LyL2Pik5HiBCISMMuYhv4214dCMRHR5tuPywDb-4g/edit?usp=sharing)
